@@ -27,7 +27,7 @@ Example Output
 
 Confusion Matrix
 
-![Confusion Matrix](notebooks/notebook/confusion_matrix.png)
+![Confusion Matrix](notebooks/confusion_matrix.png)
 
 
 Technologies Used
