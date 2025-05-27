@@ -25,10 +25,13 @@ Example Output
 
 **Accuracy: ~79%**
 
-Confusion Matrix
+### Confusion Matrix
 
 ![Confusion Matrix](notebooks/confusion_matrix.png)
 
+### Churn Distribution (Pie Chart)
+
+![Churn Distribution](notebooks/churn_distribution.png)
 
 Technologies Used
 
